@@ -1,0 +1,290 @@
+------------------------------------------------------------------------------------------------
+FOR COMPLEX ROOTS, Vieta's formulae are established as follows for polynomial ax^2 + bx + c = 0:  
+
+                        p + q = -b/a    and    pq = c/a
+------------------------------------------------------------------------------------------------
+
+Coefficients : a = 15.0, b = 6.0, c = 3.0
+
+The discriminant is: -144.0
+
+Imaginary root p: -0.2 + 0.4i
+Imaginary root q: -0.2 - 0.4i
+
+p + q: -0.4 + 0.0i
+-b / a: -0.4
+
+pq: 0.2 + 0.0i
+c / a: 0.2
+
+------------------------------------------------------------------------------------------------
+FOR COMPLEX ROOTS, Vieta's formulae are established as follows for polynomial ax^2 + bx + c = 0:  
+
+                        p + q = -b/a    and    pq = c/a
+------------------------------------------------------------------------------------------------
+
+Coefficients : a = 12.0, b = 5.0, c = 6.0
+
+The discriminant is: -263.0
+
+Imaginary root p: -0.20833333333333334 + 0.6757197808427856i
+Imaginary root q: -0.20833333333333334 - 0.6757197808427856i
+
+p + q: -0.4166666666666667 + 0.0i
+-b / a: -0.4166666666666667
+
+pq: 0.5 + 0.0i
+c / a: 0.5
+
+------------------------------------------------------------------------------------------------
+FOR COMPLEX ROOTS, Vieta's formulae are established as follows for polynomial ax^2 + bx + c = 0:  
+
+                        p + q = -b/a    and    pq = c/a
+------------------------------------------------------------------------------------------------
+
+Coefficients : a = 10.0, b = 2.0, c = 4.0
+
+The discriminant is: -156.0
+
+Imaginary root p: -0.1 + 0.6244997998398398i
+Imaginary root q: -0.1 - 0.6244997998398398i
+
+p + q: -0.2 + 0.0i
+-b / a: -0.2
+
+pq: 0.4 + 0.0i
+c / a: 0.4
+
+------------------------------------------------------------------------------------------------
+FOR COMPLEX ROOTS, Vieta's formulae are established as follows for polynomial ax^2 + bx + c = 0:  
+
+                        p + q = -b/a    and    pq = c/a
+------------------------------------------------------------------------------------------------
+
+Coefficients : a = 20.0, b = 10.0, c = 2.0
+
+The discriminant is: -60.0
+
+Imaginary root p: -0.25 + 0.19364916731037085i
+Imaginary root q: -0.25 - 0.19364916731037085i
+
+p + q: -0.5 + 0.0i
+-b / a: -0.5
+
+pq: 0.1 + 0.0i
+c / a: 0.1
+
+------------------------------------------------------------------------------------------------
+FOR COMPLEX ROOTS, Vieta's formulae are established as follows for polynomial ax^2 + bx + c = 0:  
+
+                        p + q = -b/a    and    pq = c/a
+------------------------------------------------------------------------------------------------
+
+Coefficients : a = 30.0, b = 3.0, c = 6.0
+
+The discriminant is: -711.0
+
+Imaginary root p: -0.05 + 0.44440972086577946i
+Imaginary root q: -0.05 - 0.44440972086577946i
+
+p + q: -0.1 + 0.0i
+-b / a: -0.1
+
+pq: 0.2 + 0.0i
+c / a: 0.2
+
+
+------------------------------------------------------------------------------------------------
+FOR REPEATED ROOTS, Vieta's formulae are established as follows for polynomial ax^2 + bx + c = 0:  
+
+                        p + q = -b/a    and    pq = c/a
+------------------------------------------------------------------------------------------------
+
+Coefficients : a = 2.0, b = 4.0, c = 2.0
+
+The discriminant is: 0.0
+
+One repeated root is p: -1.0
+The other repeated root q is: -1.0
+
+p + q: -2.0
+-b/a: -2.0
+
+pq: 1.0
+c/a: 1.0
+
+------------------------------------------------------------------------------------------------
+FOR REPEATED ROOTS, Vieta's formulae are established as follows for polynomial ax^2 + bx + c = 0:  
+
+                        p + q = -b/a    and    pq = c/a
+------------------------------------------------------------------------------------------------
+
+Coefficients : a = 4.0, b = 4.0, c = 1.0
+
+The discriminant is: 0.0
+
+One repeated root is p: -0.5
+The other repeated root q is: -0.5
+
+p + q: -1.0
+-b/a: -1.0
+
+pq: 0.25
+c/a: 0.25
+
+------------------------------------------------------------------------------------------------
+FOR REPEATED ROOTS, Vieta's formulae are established as follows for polynomial ax^2 + bx + c = 0:  
+
+                        p + q = -b/a    and    pq = c/a
+------------------------------------------------------------------------------------------------
+
+Coefficients : a = 1.0, b = 2.0, c = 1.0
+
+The discriminant is: 0.0
+
+One repeated root is p: -1.0
+The other repeated root q is: -1.0
+
+p + q: -2.0
+-b/a: -2.0
+
+pq: 1.0
+c/a: 1.0
+
+------------------------------------------------------------------------------------------------
+FOR REPEATED ROOTS, Vieta's formulae are established as follows for polynomial ax^2 + bx + c = 0:  
+
+                        p + q = -b/a    and    pq = c/a
+------------------------------------------------------------------------------------------------
+
+Coefficients : a = 2.0, b = 4.0, c = 2.0
+
+The discriminant is: 0.0
+
+One repeated root is p: -1.0
+The other repeated root q is: -1.0
+
+p + q: -2.0
+-b/a: -2.0
+
+pq: 1.0
+c/a: 1.0
+
+------------------------------------------------------------------------------------------------
+FOR REPEATED ROOTS, Vieta's formulae are established as follows for polynomial ax^2 + bx + c = 0:  
+
+                        p + q = -b/a    and    pq = c/a
+------------------------------------------------------------------------------------------------
+
+Coefficients : a = 4.0, b = 8.0, c = 4.0
+
+The discriminant is: 0.0
+
+One repeated root is p: -1.0
+The other repeated root q is: -1.0
+
+p + q: -2.0
+-b/a: -2.0
+
+pq: 1.0
+c/a: 1.0
+
+-------------------------------------------------------------------------------------------------
+FOR DISCTINCT ROOTS, Vieta's formulae are established as follows for polynomial ax^2 + bx + c = 0:  
+
+                        p + q = -b/a    and    pq = c/a
+-------------------------------------------------------------------------------------------------
+
+Coefficients : a = 1.0, b = 6.0, c = 2.0
+
+The discriminant is: 28.0
+
+One real root p is: -0.3542486889354093
+The other real root q is: -5.645751311064591
+
+p + q: -6.0
+-b/c: -6.0
+
+pq: 1.9999999999999993
+c/a: 2.0
+
+
+-------------------------------------------------------------------------------------------------
+FOR DISCTINCT ROOTS, Vieta's formulae are established as follows for polynomial ax^2 + bx + c = 0:  
+
+                        p + q = -b/a    and    pq = c/a
+-------------------------------------------------------------------------------------------------
+
+Coefficients : a = 1.0, b = 18.0, c = 2.0
+
+The discriminant is: 316.0
+
+One real root p is: -0.11180558268441132
+The other real root q is: -17.88819441731559
+
+p + q: -18.0
+-b/c: -18.0
+
+pq: 2.000000000000003
+c/a: 2.0
+
+
+-------------------------------------------------------------------------------------------------
+FOR DISCTINCT ROOTS, Vieta's formulae are established as follows for polynomial ax^2 + bx + c = 0:  
+
+                        p + q = -b/a    and    pq = c/a
+-------------------------------------------------------------------------------------------------
+
+Coefficients : a = 3.0, b = 20.0, c = 1.0
+
+The discriminant is: 388.0
+
+One real root p is: -0.050380732734632026
+The other real root q is: -6.616285933932034
+
+p + q: -6.666666666666666
+-b/c: -6.666666666666667
+
+pq: 0.3333333333333351
+c/a: 0.3333333333333333
+
+
+-------------------------------------------------------------------------------------------------
+FOR DISCTINCT ROOTS, Vieta's formulae are established as follows for polynomial ax^2 + bx + c = 0:  
+
+                        p + q = -b/a    and    pq = c/a
+-------------------------------------------------------------------------------------------------
+
+Coefficients : a = 10.0, b = 30.0, c = 2.0
+
+The discriminant is: 820.0
+
+One real root p is: -0.06821789367236467
+The other real root q is: -2.9317821063276357
+
+p + q: -3.0000000000000004
+-b/c: -3.0
+
+pq: 0.19999999999999998
+c/a: 0.2
+
+
+-------------------------------------------------------------------------------------------------
+FOR DISCTINCT ROOTS, Vieta's formulae are established as follows for polynomial ax^2 + bx + c = 0:  
+
+                        p + q = -b/a    and    pq = c/a
+-------------------------------------------------------------------------------------------------
+
+Coefficients : a = 3.0, b = 80.0, c = 7.0
+
+The discriminant is: 6316.0
+
+One real root p is: -0.08778900912964833
+The other real root q is: -26.57887765753702
+
+p + q: -26.666666666666668
+-b/c: -26.666666666666668
+
+pq: 2.3333333333333237
+c/a: 2.3333333333333335
+
